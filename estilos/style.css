@@ -3,9 +3,31 @@
     font-size: 16px;
 
 }
-
+h1{
+    font-size: 2em;
+    color: rgb(58, 0, 112);
+}
+h2{
+    font-size: 1,5em;
+    color: rgb(58, 0, 112);
+}
 body {
     background-color: rgb(204, 157, 248);
+}
+
+img.lado{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold ;
+    color: rgb(58, 0, 112);
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
 }
 
 main {
